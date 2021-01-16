@@ -1,0 +1,18 @@
+{
+  "name": "bot-puppeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "github: @yamilesquivel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "exceljs": "^4.2.0",
+    "jest": "^26.6.3"
+  }
+}
