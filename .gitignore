@@ -1,7 +1,8 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/sublimetext,node,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=sublimetext,node,linux
-#  falta : mejorar el readme y actualizar las los test, interaccion con navegador e incluir libreria chai assertion
+#  Falta : mejorar el readme y actualizar los test, mejorar los scripts js,usar la libreria exceljs, incluir libreria chai assertion
+
 ### Linux ###
 *~
 
